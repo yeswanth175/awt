@@ -1,0 +1,28 @@
+.body {
+    size: ;
+    text-align: center;
+    background-image: url("images/background.avif");
+    background-size: cover;      
+    background-repeat: no-repeat; 
+    background-position: center;  
+    background-attachment: fixed;
+}
+#full-page {
+    width: 100%;
+    height: 100vh;   
+    box-sizing: border-box;
+    font-size: 18px;
+}
+.heading{
+    text-align: center;
+}
+.name_password{
+    text-align: center;
+    background-color: blanchedalmond;
+}
+.box{
+
+    width: 300px;
+    height: 300px;
+    font-size: 18px;
+}
